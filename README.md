@@ -1,4 +1,4 @@
-![Technology Banner](https://github.com/fabioml10/fabioml10/blob/master/innert-banner-technology.jpg.jpg?raw=true)
+![Technology Banner](https://github.com/fabioml10/fabioml10/master/innert-banner-technology.jpg.jpg?raw=true)
 
 # Fabio Muller
 

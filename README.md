@@ -1,5 +1,4 @@
-![alt text](https://github.com/[fabioml10]/[fabioml10]/blob/[master]/
-innert-banner-technology.jpg.jpg?raw=true)
+![alt text](https://github.com/[fabioml10]/[fabioml10]/blob/[master]/innert-banner-technology.jpg.jpg?raw=true)
 
 # Fabio Muller
 

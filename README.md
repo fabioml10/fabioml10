@@ -4,6 +4,6 @@
 
 ### Hi there 👋
 
-- I’m currently working on RunRunit, as Backend Developer
+- I’m currently working as Backend Developer
 - I’m currently learning TDD and React
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/fabiomullerdev/)
